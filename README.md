@@ -9,29 +9,29 @@ This project is a versatile and interactive system built with an ESP32, OLED scr
 ### Exercises Menu
 Displays random bodyweight exercises with a specified number of repetitions (e.g., 10 push-ups).
 
-### Motivations Menu
+### **Motivations Menu**
 Shows random motivational quotes to keep you inspired.
 
-### Temperature Menu
+### **Temperature Menu**
 Displays the temperature and humidity data measured by the DHT11 sensor.
 
-### Weather Menu
+### **Weather Menu**
 Fetches and displays temperature, humidity, and location data using the OpenWeather API.
 
-### Stopwatch Menu
+### **Stopwatch Menu**
 A simple and easy-to-use stopwatch to track time.
 
-### Timer Menu
+### **Timer Menu**
 Set a timer for your activities, and get notified when time's up.
 
-### Distance Menu
+### **Distance Menu**
 Measures and displays distance using an ultrasonic sensor.
 
-### Info Menu
+### **Info Menu**
 Shows links to my GitHub and Instagram profiles.
 
 
-## Hardware Requirements
+## **Hardware Requirements**
 - ESP32 Development Board
 - OLED Display
 - DHT11 Temperature and Humidity Sensor
@@ -39,7 +39,7 @@ Shows links to my GitHub and Instagram profiles.
 - Buzzer
 - Push Buttons
   
-## Software Requirements
+## **Software Requirements**
 - Arduino IDE
 - ESP32 Board Package
 - Adafruit SSD1306 Library
