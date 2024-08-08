@@ -35,7 +35,7 @@ Shows links to my GitHub and Instagram profiles.
 - ESP32 Development Board
 - OLED Display
 - DHT11 Temperature and Humidity Sensor
-- Ultrasonic Sensor
+- HC-SR04 Ultrasonic Sensor
 - Buzzer
 - Push Buttons
   
@@ -45,7 +45,6 @@ Shows links to my GitHub and Instagram profiles.
 - Adafruit SSD1306 Library
 - Adafruit GFX Library
 - DHT Sensor Library
-- OpenWeather API
 
 
 
