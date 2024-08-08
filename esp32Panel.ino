@@ -70,13 +70,13 @@ int startScreenState = 1;
 
 
 // WiFi SSID-Password
-const char* ssid = "TURKSAT-KABLONET-D7F8-2.4G";
-const char* password = "b6474ae6";
+const char* ssid = "SSID Name";
+const char* password = "********";
 
 
 //Weather Api
 String URL = "http://api.openweathermap.org/data/2.5/weather?";
-String ApiKey = "f794866b6f1d50e95e4734f17449aa89";
+String ApiKey = "Your Api Key";
 
 
 //Coordinates
