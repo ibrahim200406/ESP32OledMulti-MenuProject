@@ -2,7 +2,7 @@
 
 
 
-ESP32 OLED Multi-Menu Project
+# ESP32 OLED Multi-Menu Project
 This project is a versatile and interactive system built with an ESP32, OLED screen, DHT11 sensor, ultrasonic sensor, buzzer, and buttons. It features multiple menus offering a variety of functionalities, from exercise routines to weather updates.
 
 Features
