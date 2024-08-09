@@ -55,7 +55,16 @@ Shows links to my GitHub and Instagram profiles.
 # **Pictures**
 
 ![](https://github.com/ibrahim200406/ESP32OledMulti-MenuProject/blob/main/2.jpg)
+
+**-------------------------**
+
 ![](https://github.com/ibrahim200406/ESP32OledMulti-MenuProject/blob/main/3.jpg)
+
+**-------------------------**
+
 ![](https://github.com/ibrahim200406/ESP32OledMulti-MenuProject/blob/main/6.jpg)
+
+**-------------------------**
+
 ![](https://github.com/ibrahim200406/ESP32OledMulti-MenuProject/blob/main/4.jpg)
 
